@@ -1,0 +1,6 @@
+{
+  "name": "MeetUp Local",
+  "description": "A mobile MVP helping lonely people transition from online to offline socializing by joining and creating small local events.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
